@@ -16,7 +16,12 @@ Blind and low vision (BLV) developers create websites to share knowledge and sho
 ## Citation and contact
 
 ```
-Coming soon...
+@article{huh2024designchecker,
+  title={DesignChecker: Visual Design Support for Blind and Low Vision Web Developers},
+  author={Huh, Mina and Pavel, Amy},
+  journal={arXiv preprint arXiv:2407.17681},
+  year={2024}
+}
 ```
 
 📧 Please contact Mina Huh at `minahuh[at]cs.utexas.edu` if you have any questions or suggestions.
